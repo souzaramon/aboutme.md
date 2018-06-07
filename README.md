@@ -11,46 +11,57 @@
 **Github:** souzaramon
 
 ## Sobre mim
-Sou desenvolvedor JavaScript, gosto de trabalhar em projetos desafiadores e inovadores. Estou constantemente pesquisando sobre boas pratricas e claro experimentando novas tecnologias. Gosto muito de trabalhar em grupo e de poder ensinar algo que aprendi.
+Sou desenvolvedor JavaScript, gosto de trabalhar em projetos desafiadores e inovadores. Estou constantemente pesquisando sobre boas práticas e experimentando novas tecnologias. Trabalhar em grupo é uma coisa que muito me agrada, e um dos meus hobbies favoritos é de poder ensinar algo que aprendi para um amigo.
 
 ## Habilidades
 
-* HTML - Pug 
-* Design Responsivo (Mobile First)
+* HTML - Pug
 * CSS (Sass)
-* Css Frameworks (Bootstrap, Materilize)
-* Gulp / Webpack / Npm
+* Css Frameworks (Bootstrap, Materialize)
+* Design Responsivo e Cross-Browser
 * POO e Funcional
-* Javascript (Design Patterns, Tests, ES8)
-* React / React Native / Redux / Flux
-* VueJs (Vuex)
+* Javascript (Design Patterns, Testes, ES8)
+* Gulp / Webpack / Npm / Yarn
+* React / React Native / React Navigation
+* Redux / Vuex / Flux 
+* Vue / Vue-router
 * NodeJS (ExpressJs, SocketIO)
 * PHP (Laravel)
 * Photoshop e Ilustrator
-* Git
+* Git e Github
+* Linux e Windows (linha de comando)
 * MySQL - MongoDB
 
 ## Experiência
 
-**JavaScript Developer Junior** - sgap.com.br / 2017 - Atual
+**JavaScript Developer Junior** - [JMV - Sistemas](sgap.com.br) / 2017 - Atual
+> A JMV é uma empresa que oferece uma solução para automação de postos de gasolina. Não trabalhei no carro-chefe da empresa mas sim em aplicativos mobiles onde tive meu primeiro contato com react-native e com pwa's.
 
-> Desenvolvedor Javascript, trabalhando com NodeJs, SocketIo, React, ReactNative, Redux e toda stack envolta da linguagem.
-
-**Full-Stack Junior Developer** - rexlab.ufsc.br - December 2016 - 2017
-
-> Foi meu primeiro trabalho na área, lá pude aprender um pouco sobre tudo e me interar sobre o ambiente web. Trabalhei com Laravel, JavasScript, Html5, Css, Node e git, trabalhando diretamente com o relle.ufsc.br que é uma plataforma para experimentação remota, com uma Aplicação feita em laravel, uma fila em nodejs e um os experiementos são escritos em C, o laboratório é voltado ao desenvolvimento livre e opensource.
+**Pesquisador e Desenvolvedor Full-Stack Junior** - [RexLab](rexlab.ufsc.br) - December 2016 - 2017
+> Manutenção e devenvolvimentos de novas funcionalidades para o [Relle](relle.ufsc.br), que é uma plataforma desenvolvida em laravel, que possui uma fila em nodejs(socketio) para a comunicação com experimentos estes escritos em C. O objetivo do laboratório é a inclusão de pessoas nas areas tecnologicas por meio de experimentos remotos, o laboratório recebeu uma serie de premios e muito me orgulha ter participado da equipe de desenvolvimento.
 
 > https://github.com/RExLab
 
 ## Educação
 
-**Tecnologia da Informação e Comunicação - UFSC** - Junho 2016 - (Dezembro - 2019)
+**Bacharelado em Tecnologia da Informação e Comunicação** 
+- Universidade Federal de Santa Catarina - Campos Araranguá
+- Junho 2016 - (Dezembro - 2019)
 
 ## Cursos
 
-* Udemy - Nodejs Master Class
-* Alura - Javascript Avançado I, II, e II, Js Funcional e Padroes de Projeto
-* Alura - React, ReactNative
-* Alura - Vuew
-* Alura - PerformaceWeb
-* Alura - Webpack, PWA
+* Udemy
+    - Nodejs Master Class
+* Alura 
+    - JavaScript Avançado I, II, e II
+    - JavaScript: De padrões a uma abordagem funcional
+    - Gulp
+    - WebPack
+    - PWA
+    - Performace web I e II
+    - SASS
+    - Chrome DevTools
+    - React
+    - ReactNative
+    - VueJS I e II
+    - FlexBox
