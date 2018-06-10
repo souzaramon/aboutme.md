@@ -11,7 +11,7 @@
 **Github:** souzaramon
 
 ## Sobre mim
-Sou desenvolvedor JavaScript, gosto de trabalhar em projetos desafiadores e inovadores. Estou constantemente pesquisando sobre boas práticas e experimentando novas tecnologias. Trabalhar em grupo é uma coisa que muito me agrada, e um dos meus hobbies favoritos é de poder ensinar algo que aprendi para um amigo.
+Sou um desenvolvedor web, apaixonado por javascript e por criar coisas. Sou perfecionista e busco dar o meu melhor em qualquer projeto que comece a desenvolver. Adoro trabalhar em equipe e poder compartilhar conhecimentos. Amo o que eu faço e busco todo dia aprender algo novo.
 
 ## Habilidades
 
