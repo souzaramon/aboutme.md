@@ -25,6 +25,7 @@ Sou um desenvolvedor web, apaixonado por javascript e por criar coisas. Sou perf
 * React / React Native / React Navigation
 * Redux / Vuex / Flux 
 * Vue / Vue-router
+* Jekyll
 * NodeJS (ExpressJs, SocketIO)
 * PHP (Laravel)
 * Photoshop e Ilustrator
