@@ -11,7 +11,7 @@
 **Github:** souzaramon
 
 ## Sobre mim
-Sou um desenvolvedor web, apaixonado por javascript e por criar coisas. Sou perfecionista e busco dar o meu melhor em qualquer projeto que comece a desenvolver. Adoro trabalhar em equipe e poder compartilhar conhecimentos. Amo o que eu faço e busco todo dia aprender algo novo.
+Sou um desenvolvedor, apaixonado por javascript e por criar coisas. Busco dar o meu melhor em tudo que faço, estudo muito sobre boas práticas e padrões de projeto. Adoro trabalhar em equipe e compartilhar conhecimentos. Amo o que eu faço e busco todo dia aprender algo novo.
 
 ## Habilidades
 
@@ -19,19 +19,21 @@ Sou um desenvolvedor web, apaixonado por javascript e por criar coisas. Sou perf
 * CSS (Sass)
 * Css Frameworks (Bootstrap, Materialize)
 * Design Responsivo e Cross-Browser
-* POO e Funcional
-* Javascript (Design Patterns, Testes, ES8)
+* Conhecimentos sólidos em POO
+* Conhecimentos em Programação Funcional
+* JavaScript (Design Patterns, Testes unitários, ES8)
 * Gulp / Webpack / Npm / Yarn
-* React / React Native / React Navigation
-* Redux / Vuex / Flux 
+* React / React Native / React-router
+* Redux / Vuex / Flux
 * Vue / Vue-router
 * Jekyll
-* NodeJS (ExpressJs, SocketIO)
+* NodeJS (ExpressJs, Restfy, SocketIO)
 * PHP (Laravel)
-* Photoshop e Ilustrator
+* Photoshop e CorelDraw
 * Git e Github
 * Linux e Windows (linha de comando)
-* MySQL - MongoDB
+* MySQL
+* Inglês intermediário
 
 ## Experiência
 
