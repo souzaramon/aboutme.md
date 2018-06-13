@@ -22,6 +22,7 @@ Sou um desenvolvedor, apaixonado por javascript e por criar coisas. Busco dar o 
 * Conhecimentos sólidos em POO
 * Conhecimentos em Programação Funcional
 * JavaScript (Design Patterns, Testes unitários, ES8)
+* JQuery
 * Gulp / Webpack / Npm / Yarn
 * React / React Native / React-router
 * Redux / Vuex / Flux
