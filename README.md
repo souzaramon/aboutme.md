@@ -11,7 +11,7 @@
 **Github:** souzaramon
 
 ## Sobre mim
-Sou um desenvolvedor, apaixonado por javascript e por criar coisas. Busco dar o meu melhor em tudo que faço, estudo muito sobre boas práticas e padrões de projeto. Adoro trabalhar em equipe e compartilhar conhecimentos. Amo o que eu faço e busco todo dia aprender algo novo.
+Sou um desenvolvedor autodidata, apaixonado por javascript e por criar coisas. Busco dar o meu melhor em tudo que faço, estudo muito sobre boas práticas e padrões de projeto. Adoro trabalhar em equipe e compartilhar conhecimentos. Amo o que eu faço e busco todo dia aprender algo novo.
 
 ## Habilidades
 
@@ -52,7 +52,7 @@ Sou um desenvolvedor, apaixonado por javascript e por criar coisas. Busco dar o 
 - Universidade Federal de Santa Catarina - Campos Araranguá
 - Junho 2016 - (Dezembro - 2019)
 
-## Cursos
+## Alguns cursos que conclui
 
 * Udemy
     - Nodejs Master Class
