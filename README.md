@@ -17,23 +17,24 @@ Sou um desenvolvedor autodidata, apaixonado por javascript e por criar coisas. B
 
 * HTML - Pug
 * CSS (Sass)
-* Css Frameworks (Bootstrap, Materialize)
-* Design Responsivo e Cross-Browser
+* Css Frameworks (Bootstrap, Materialize, Bulma)
+* Design Responsivo, Cross-Browser, SEO
 * Conhecimentos sólidos em POO
 * Conhecimentos em Programação Funcional
 * JavaScript (Design Patterns, Testes unitários, ES8)
-* JQuery
+* JQuery, lodash
 * Gulp / Webpack / Npm / Yarn
-* React / React Native / React-router
+* React / React Native / React-router / React-navigation
 * Redux / Vuex / Flux
+* redux-thunk, redux-saga
 * Vue / Vue-router
 * Jekyll
-* NodeJS (ExpressJs, Restfy, SocketIO)
+* NodeJS (ExpressJs, Restfy, SocketIO, AdonisJS)
 * PHP (Laravel)
-* Photoshop e CorelDraw
+* Photoshop
 * Git e Github
 * Linux e Windows (linha de comando)
-* MySQL
+* MongoDB
 * Inglês intermediário
 
 ## Experiência
