@@ -1,41 +1,48 @@
+
 # Ramon de Brittos Souza
-
 **Localidade:** Santa Catarina - Brasil
-
 **Telefone:** (48) 998222545
-
 **E-mail:** ramon_souza@hotmail.com
-
 **Skype:** ramona7x
-
 **Github:** souzaramon
 
 ## Sobre mim
-Sou um desenvolvedor autodidata, apaixonado por javascript e por criar coisas. Busco dar o meu melhor em tudo que faço, estudo muito sobre boas práticas e padrões de projeto. Adoro trabalhar em equipe e compartilhar conhecimentos. Não suporto me sentir em uma zona de conforto e tento todo dia aprender algo novo.
+Sou um desenvolvedor autodidata, amo codar e criar coisas. Busco dar o meu melhor em tudo que faço. Estudo muito sobre boas práticas, padrões de projeto e gosto de me aprofundar na linguagem com a qual trabalho, que no momento é JavaScript. Trabalhar em equipe sempre foi uma vontade minha, que infelizmente, no momento minhas experiencias se resumem a trabalhos da faculdade. Gosto muito de compartilhar conhecimento e sou competitivo, odeio ficam em uma zona de conforto e sou apaixonado por aprender. 
 
 ## Habilidades
 
-* HTML - Pug
-* CSS (Sass)
-* Css Frameworks (Bootstrap, Materialize, Bulma, etc)
-* Design Responsivo, Cross-Browser, SEO Básico
-* Conhecimentos sólidos em POO
-* Conhecimentos em Programação Funcional
-* JavaScript (Design Patterns, Testes unitários, ES8)
-* JQuery, lodash
-* Gulp / Webpack / Npm / Yarn
-* React / React Native / React-router / React-navigation
-* Redux / Vuex / Flux
-* redux-thunk, redux-saga
-* Vue / Vue-router
-* Jekyll
-* NodeJS (ExpressJs, Restfy, SocketIO, AdonisJS)
-* PHP (Laravel)
-* Photoshop
-* Git e Github
-* Linux e Windows (linha de comando)
-* MongoDB / slqlite3
-* Inglês intermediário
+- Linguagens de marcação
+	-	HTML5 / Pug / XML / JSON
+- CSS
+	- SASS
+	- CSS-GRID / Design Responsivo / Cross-Browser
+	- Bootstrap, Materialize, Bulma
+- Programação
+	- Conhecimentos sólidos em POO
+	- Conhecimentos em Programação Funcional
+	- Design Patterns
+	- Testes unitários
+	- JavaScript
+		- EcmaScript 2017
+		- JQuery, _lodash
+		- ReactJS, VueJs
+		- Arquitetura Flux, Redux, Vuex
+		- NodeJs
+	- C e C++
+		- Conhecimentos básicos desenvolvidos na Faculdade
+	- Java
+		- Conhecimentos básicos desenvolvidos na Faculdade
+	- PHP
+		- Laravel
+- Banco de dados
+	- Trabalho com o intuito de *code-first*, ou seja utilizo ORM's, o que mais utilizo é o moogose para MongoDB
+- Outros
+	- SEO básico
+	- Photoshop
+	- Linux e Windows (linha de comando)
+	- Git
+	- Inglês intermediário
+
 
 ## Experiência
 
