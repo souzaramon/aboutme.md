@@ -11,14 +11,14 @@
 **Github:** souzaramon
 
 ## Sobre mim
-Sou um desenvolvedor autodidata, apaixonado por javascript e por criar coisas. Busco dar o meu melhor em tudo que faço, estudo muito sobre boas práticas e padrões de projeto. Adoro trabalhar em equipe e compartilhar conhecimentos. Amo o que eu faço e busco todo dia aprender algo novo.
+Sou um desenvolvedor autodidata, apaixonado por javascript e por criar coisas. Busco dar o meu melhor em tudo que faço, estudo muito sobre boas práticas e padrões de projeto. Adoro trabalhar em equipe e compartilhar conhecimentos. Não suporto me sentir em uma zona de conforto e tento todo dia aprender algo novo.
 
 ## Habilidades
 
 * HTML - Pug
 * CSS (Sass)
-* Css Frameworks (Bootstrap, Materialize, Bulma)
-* Design Responsivo, Cross-Browser, SEO
+* Css Frameworks (Bootstrap, Materialize, Bulma, etc)
+* Design Responsivo, Cross-Browser, SEO Básico
 * Conhecimentos sólidos em POO
 * Conhecimentos em Programação Funcional
 * JavaScript (Design Patterns, Testes unitários, ES8)
@@ -34,7 +34,7 @@ Sou um desenvolvedor autodidata, apaixonado por javascript e por criar coisas. B
 * Photoshop
 * Git e Github
 * Linux e Windows (linha de comando)
-* MongoDB
+* MongoDB / slqlite3
 * Inglês intermediário
 
 ## Experiência
@@ -70,3 +70,6 @@ Sou um desenvolvedor autodidata, apaixonado por javascript e por criar coisas. B
     - ReactNative
     - VueJS I e II
     - FlexBox
+* Pluralsight
+    - Path Nodejs
+    - Path JavaScript
