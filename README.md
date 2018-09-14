@@ -12,7 +12,9 @@ Sou um desenvolvedor autodidata, amo codar e criar coisas. Busco dar o meu melho
 ## Habilidades
 
 - Linguagens de marcação
-	-	HTML5 / Pug / XML / JSON
+	- HTML5
+	- XML
+	- JSON
 - CSS
 	- SASS
 	- CSS-GRID / Design Responsivo / Cross-Browser
@@ -36,12 +38,20 @@ Sou um desenvolvedor autodidata, amo codar e criar coisas. Busco dar o meu melho
 		- Laravel
 - Banco de dados
 	- Trabalho com o intuito de *code-first*, ou seja utilizo ORM's, o que mais utilizo é o moogose para MongoDB
+- Ferramentas de Desenvolvimento
+	- Npm & Yarn
+	- Git
+	- Webpack / Parcel
+	- GulpJs
+	- Linux e Windows (linha de comando)
 - Outros
 	- SEO básico
 	- Photoshop
-	- Linux e Windows (linha de comando)
-	- Git
 	- Inglês intermediário
+	- ngnix
+	- Cordova & Aplicativos Hibridos
+	- PWA's
+	- Api's HTML5
 
 
 ## Experiência
