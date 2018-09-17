@@ -1,9 +1,9 @@
 
 # Ramon de Brittos Souza
-**Localidade:** Santa Catarina - Brasil
-**Telefone:** (48) 998222545
-**E-mail:** ramon_souza@hotmail.com
-**Skype:** ramona7x
+**Localidade:** Santa Catarina - Brasil<br>
+**Telefone:** (48) 998222545<br>
+**E-mail:** ramon_souza@hotmail.com<br>
+**Skype:** ramona7x<br>
 **Github:** souzaramon
 
 ## Sobre mim
