@@ -25,6 +25,7 @@ Sou um desenvolvedor autodidata, amo codar e criar coisas. Busco dar o meu melho
 	- Design Patterns
 	- Testes unitários
 	- JavaScript
+		- DOM / HTML5 API's
 		- EcmaScript 2017
 		- JQuery, _lodash
 		- ReactJS, VueJs
@@ -34,10 +35,14 @@ Sou um desenvolvedor autodidata, amo codar e criar coisas. Busco dar o meu melho
 		- Conhecimentos básicos desenvolvidos na Faculdade
 	- Java
 		- Conhecimentos básicos desenvolvidos na Faculdade
+	- Python
+		- Conhecimentos básicos
 	- PHP
 		- Laravel
+	- Elixir
+		- Meu foco atual de estudo, :3
 - Banco de dados
-	- Trabalho com o intuito de *code-first*, ou seja utilizo ORM's, o que mais utilizo é o moogose para MongoDB
+	- Trabalho com o intuito de *code-first*, ou seja utilizo ORM's
 - Ferramentas de Desenvolvimento
 	- Npm & Yarn
 	- Git
@@ -48,10 +53,9 @@ Sou um desenvolvedor autodidata, amo codar e criar coisas. Busco dar o meu melho
 	- SEO básico
 	- Photoshop
 	- Inglês intermediário
-	- ngnix
+	- ngnix / Apache
 	- Cordova & Aplicativos Hibridos
 	- PWA's
-	- Api's HTML5
 
 
 ## Experiência
