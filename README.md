@@ -36,7 +36,7 @@ Sou um desenvolvedor autodidata, amo codar e criar coisas. Busco dar o meu melho
 	- Java
 		- Conhecimentos básicos desenvolvidos na Faculdade
 	- Python
-		- Conhecimentos básicos
+		- Minha linguagem secundária, estudo em tempo livre
 	- PHP
 		- Laravel
 	- Elixir
