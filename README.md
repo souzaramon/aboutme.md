@@ -39,8 +39,6 @@ Sou um desenvolvedor autodidata, amo codar e criar coisas. Busco dar o meu melho
 		- Minha linguagem secundária, estudo em tempo livre
 	- PHP
 		- Laravel
-	- Elixir
-		- Meu foco atual de estudo, :3
 - Banco de dados
 	- Trabalho com o intuito de *code-first*, ou seja utilizo ORM's
 - Ferramentas de Desenvolvimento
