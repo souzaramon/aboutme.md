@@ -70,7 +70,7 @@ Sou um desenvolvedor autodidata, amo codar e criar coisas. Busco dar o meu melho
 
 ## Educação
 
-**Bacharelado em Tecnologia da Informação e Comunicação** 
+**Bacharelando em Tecnologia da Informação e Comunicação** 
 - Universidade Federal de Santa Catarina - Campos Araranguá
 - Junho 2016 - (Dezembro - 2019)
 
