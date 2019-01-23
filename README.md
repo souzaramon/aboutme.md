@@ -7,7 +7,7 @@
 **Github:** souzaramon
 
 ## Sobre mim
-Sou um desenvolvedor autodidata, amo codar e criar coisas. Busco dar o meu melhor em tudo que faço. Estudo muito sobre boas práticas, padrões de projeto e gosto de me aprofundar na linguagem com a qual trabalho, que no momento é JavaScript. Trabalhar em equipe sempre foi uma vontade minha, que infelizmente, no momento minhas experiencias se resumem a trabalhos da faculdade. Gosto muito de compartilhar conhecimento e sou competitivo, odeio ficam em uma zona de conforto e sou apaixonado por aprender. 
+Sou um desenvolvedor autodidata, amo codar e criar coisas. Busco dar o meu melhor em tudo que faço. Estudo muito sobre boas práticas, padrões de projeto e gosto de me aprofundar na linguagem com a qual trabalho, que no momento é JavaScript. Trabalhar em equipe sempre foi uma vontade minha, que infelizmente, no momento minhas experiencias se resumem a trabalhos da faculdade. Gosto muito de compartilhar conhecimento, sou competitivo e odeio ficam em uma zona de conforto. 
 
 ## Habilidades
 
