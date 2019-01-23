@@ -26,17 +26,19 @@ Sou um desenvolvedor autodidata, amo codar e criar coisas. Busco dar o meu melho
 	- Testes unitários
 	- JavaScript
 		- DOM / HTML5 API's
-		- EcmaScript 2017
-		- JQuery, _lodash
+		- EcmaScript 2018
+		- JQuery, _lodash, ramda
 		- ReactJS, VueJs
-		- Arquitetura Flux, Redux, Vuex
-		- NodeJs
+		- Arquitetura Flux (redux, redux-saga, redux-thunk, vuex)
+		- NodeJS (Express, AdonisJS, socket-io)
 	- C e C++
 		- Conhecimentos básicos desenvolvidos na Faculdade
 	- Java
 		- Conhecimentos básicos desenvolvidos na Faculdade
 	- Python
-		- Minha linguagem secundária, estudo em tempo livre
+		- Estudo em tempo livre
+	- Dart
+		- Paixão atual <3, tambem estudo em tempo livre
 	- PHP
 		- Laravel
 - Banco de dados
