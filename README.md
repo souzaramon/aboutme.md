@@ -64,7 +64,7 @@ Sou um desenvolvedor autodidata, amo codar e criar coisas. Busco dar o meu melho
 > A JMV é uma empresa que oferece uma solução para automação de postos de gasolina. Não trabalhei no carro-chefe da empresa mas sim em aplicativos mobiles onde tive meu primeiro contato com react-native e com pwa's.
 
 **Pesquisador e Desenvolvedor Full-Stack Junior** - [RexLab](rexlab.ufsc.br) - December 2016 - 2017
-> Manutenção e devenvolvimentos de novas funcionalidades para o [Relle](relle.ufsc.br), que é uma plataforma desenvolvida em laravel, que possui uma fila em nodejs(socketio) para a comunicação com experimentos estes escritos em C. O objetivo do laboratório é a inclusão de pessoas nas areas tecnologicas por meio de experimentos remotos, o laboratório recebeu uma serie de premios e muito me orgulha ter participado da equipe de desenvolvimento.
+> Manutenção e devenvolvimentos de novas funcionalidades para o [Relle](http://relle.ufsc.br). O objetivo do laboratório é a inclusão de pessoas nas areas tecnologicas por meio de experimentos remotos,  me orgulha ter participado da equipe de desenvolvimento.
 
 > https://github.com/RExLab
 
