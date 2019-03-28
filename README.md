@@ -7,17 +7,16 @@
 **Github:** souzaramon
 
 ## Sobre mim
-Sou um desenvolvedor autodidata, amo codar e criar coisas. Busco dar o meu melhor em tudo que faço. Estudo muito sobre boas práticas, padrões de projeto e gosto de me aprofundar na linguagem com a qual trabalho, que no momento é JavaScript. Trabalhar em equipe sempre foi uma vontade minha, que infelizmente, no momento minhas experiencias se resumem a trabalhos da faculdade. Gosto muito de compartilhar conhecimento, sou competitivo e odeio ficam em uma zona de conforto. 
+Desenvolvedor apaixonado por tecnologia. Gosto de trabalhar em equipe, aprender e ensinar :D.
+Estou constantemente estudando boas práticas e me especializando nas tecnologias com que trabalho, e atualmente tenho focado meus estudos em Javascript e tambem na arquitetura de microserviços.
 
 ## Habilidades
 
 - Linguagens de marcação
-	- HTML5
-	- XML
-	- JSON
+	- HTML5, XML, JSON, YAML
 - CSS
 	- SASS
-	- CSS-GRID / Design Responsivo / Cross-Browser
+	- Grid Layout / Flex-box / Design Responsivo / Cross-Browser / BEM
 	- Bootstrap, Materialize, Bulma
 - Programação
 	- Conhecimentos sólidos em POO
@@ -26,7 +25,7 @@ Sou um desenvolvedor autodidata, amo codar e criar coisas. Busco dar o meu melho
 	- Testes unitários
 	- JavaScript
 		- DOM / HTML5 API's
-		- EcmaScript 2018
+		- EcmaScript 2019
 		- JQuery, _lodash, ramda
 		- ReactJS, VueJs
 		- Arquitetura Flux (redux, redux-saga, redux-thunk, vuex)
@@ -38,15 +37,16 @@ Sou um desenvolvedor autodidata, amo codar e criar coisas. Busco dar o meu melho
 	- Python
 		- Estudo em tempo livre
 	- Dart
-		- Paixão atual <3, tambem estudo em tempo livre
+		- Estudo em tempo livre
 	- PHP
 		- Laravel
 - Banco de dados
 	- Trabalho com o intuito de *code-first*, ou seja utilizo ORM's
+		- Sequelize / Mongoose
 - Ferramentas de Desenvolvimento
 	- Npm & Yarn
 	- Git
-	- Webpack / Parcel
+	- Webpack / Parcel / Babel
 	- GulpJs
 	- Linux e Windows (linha de comando)
 - Outros
@@ -54,7 +54,9 @@ Sou um desenvolvedor autodidata, amo codar e criar coisas. Busco dar o meu melho
 	- Photoshop
 	- Inglês intermediário
 	- ngnix / Apache
+	- Docker / Kubernets ( Estudando :D )
 	- Cordova & Aplicativos Hibridos
+	- Electron (Aplicações desktop, utilizando tecnologias web)
 	- PWA's
 
 
@@ -94,3 +96,5 @@ Sou um desenvolvedor autodidata, amo codar e criar coisas. Busco dar o meu melho
 * Pluralsight
     - Path Nodejs
     - Path JavaScript
+* Rocketseat
+	- Bootcamp OmniStack - Reactjs, React-Native, Nodejs (**Cursando**)
