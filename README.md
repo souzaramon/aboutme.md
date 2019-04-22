@@ -24,12 +24,11 @@ Estou constantemente estudando boas práticas e me especializando nas tecnologia
     - Design Patterns
     - Testes unitários
     - JavaScript
-	    - DOM / HTML5 API's
-	    - EcmaScript 2019
-	    - JQuery, _lodash, ramda
-	    - ReactJS, VueJs
-	    - Arquitetura Flux (redux, redux-saga, redux-thunk, vuex)
-	    - NodeJS (Express, AdonisJS, socket-io)
+    	- DOM / HTML5 API's
+    	- JQuery, _lodash, ramda
+    	- ReactJS, VueJs
+    	- Arquitetura Flux (redux, redux-saga, redux-thunk, vuex)
+    	- NodeJS (Express, AdonisJS, socket-io)
     - C e C++
 	    - Conhecimentos básicos desenvolvidos na Faculdade
     - Java
