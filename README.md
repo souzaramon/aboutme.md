@@ -3,7 +3,7 @@
 **Localidade:** Santa Catarina - Brasil<br>
 **Telefone:** (48) 998222545<br>
 **E-mail:** ramon_souza@hotmail.com<br>
-**Skype:** ramona7x<br>
+**Discord:** souzaramon#7405<br>
 **Github:** souzaramon
 
 ## Sobre mim
@@ -13,50 +13,49 @@ Estou constantemente estudando boas práticas e me especializando nas tecnologia
 ## Habilidades
 
 - Linguagens de marcação
-    - HTML5, XML, JSON, YAML
+  - HTML5, XML, JSON, YAML
 - CSS
-    - SASS
-    - Grid Layout / Flex-box / Design Responsivo / Cross-Browser / BEM
-    - Bootstrap, Materialize, Bulma
+  - SASS
+  - Grid Layout / Flex-box / Design Responsivo / Cross-Browser / BEM
+  - Bootstrap, Materialize, Bulma
 - Programação
-    - Conhecimentos sólidos em POO
-    - Conhecimentos em Programação Funcional
-    - Design Patterns
-    - Testes unitários
-    - JavaScript
-	- DOM / HTML5 API's
-	- JQuery, _lodash, ramda
-	- ReactJS, VueJs
-	- Arquitetura Flux (redux, redux-saga, redux-thunk, vuex)
-	- NodeJS (Express, AdonisJS, socket-io)
-    - C e C++
-	- Conhecimentos básicos desenvolvidos na Faculdade
-    - Java
-	- Conhecimentos básicos desenvolvidos na Faculdade
-    - Python
-	- Estudo em tempo livre
-    - Dart
-	- Estudo em tempo livre
-    - PHP
-    - Laravel
+  - Conhecimentos sólidos em POO
+  - Conhecimentos em Programação Funcional
+  - Design Patterns
+  - Testes unitários
+  - JavaScript
+    - DOM / HTML5 API's
+    - JQuery, _lodash, ramda
+    - ReactJS, VueJs
+    - Arquitetura Flux (redux, redux-saga, redux-thunk, vuex)
+    - NodeJS (Express, AdonisJS, socket-io)
+  - C e C++
+    - Conhecimentos básicos desenvolvidos na Faculdade
+  - Java
+    - Conhecimentos básicos desenvolvidos na Faculdade
+  - Python
+    - Estudo em tempo livre
+  - Dart
+    - Estudo em tempo livre
+  - PHP
+  - Laravel
 - Banco de dados
-    - Sequelize / Mongoose
+  - Sequelize / Mongoose
 - Ferramentas de Desenvolvimento
-    - Npm & Yarn
-    - Git
-    - Webpack / Parcel / Babel
-    - GulpJs
-    - Linux e Windows (linha de comando)
+  - Npm & Yarn
+  - Git
+  - Webpack / Parcel / Babel
+  - GulpJs
+  - Linux e Windows (linha de comando)
 - Outros
-    - SEO básico
-    - Photoshop
-    - Inglês intermediário
-    - ngnix / Apache
-    - Docker / Kubernets ( Estudando :D )
-    - Cordova & Aplicativos Hibridos
-    - Electron (Aplicações desktop, utilizando tecnologias web)
-    - PWA's
-
+  - SEO básico
+  - Photoshop
+  - Inglês intermediário
+  - ngnix / Apache
+  - Docker / Kubernets ( Estudando :D )
+  - Cordova & Aplicativos Hibridos
+  - Electron
+  - PWA's
 
 ## Experiência
 
