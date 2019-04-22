@@ -13,51 +13,50 @@ Estou constantemente estudando boas práticas e me especializando nas tecnologia
 ## Habilidades
 
 - Linguagens de marcação
-	- HTML5, XML, JSON, YAML
+    - HTML5, XML, JSON, YAML
 - CSS
-	- SASS
-	- Grid Layout / Flex-box / Design Responsivo / Cross-Browser / BEM
-	- Bootstrap, Materialize, Bulma
+    - SASS
+    - Grid Layout / Flex-box / Design Responsivo / Cross-Browser / BEM
+    - Bootstrap, Materialize, Bulma
 - Programação
-	- Conhecimentos sólidos em POO
-	- Conhecimentos em Programação Funcional
-	- Design Patterns
-	- Testes unitários
-	- JavaScript
-		- DOM / HTML5 API's
-		- EcmaScript 2019
-		- JQuery, _lodash, ramda
-		- ReactJS, VueJs
-		- Arquitetura Flux (redux, redux-saga, redux-thunk, vuex)
-		- NodeJS (Express, AdonisJS, socket-io)
-	- C e C++
-		- Conhecimentos básicos desenvolvidos na Faculdade
-	- Java
-		- Conhecimentos básicos desenvolvidos na Faculdade
-	- Python
-		- Estudo em tempo livre
-	- Dart
-		- Estudo em tempo livre
-	- PHP
-		- Laravel
+    - Conhecimentos sólidos em POO
+    - Conhecimentos em Programação Funcional
+    - Design Patterns
+    - Testes unitários
+    - JavaScript
+	    - DOM / HTML5 API's
+	    - EcmaScript 2019
+	    - JQuery, _lodash, ramda
+	    - ReactJS, VueJs
+	    - Arquitetura Flux (redux, redux-saga, redux-thunk, vuex)
+	    - NodeJS (Express, AdonisJS, socket-io)
+    - C e C++
+	    - Conhecimentos básicos desenvolvidos na Faculdade
+    - Java
+	    - Conhecimentos básicos desenvolvidos na Faculdade
+    - Python
+	    - Estudo em tempo livre
+    - Dart
+    	- Estudo em tempo livre
+    - PHP
+    - Laravel
 - Banco de dados
-	- Trabalho com o intuito de *code-first*, ou seja utilizo ORM's
-		- Sequelize / Mongoose
+    - Sequelize / Mongoose
 - Ferramentas de Desenvolvimento
-	- Npm & Yarn
-	- Git
-	- Webpack / Parcel / Babel
-	- GulpJs
-	- Linux e Windows (linha de comando)
+    - Npm & Yarn
+    - Git
+    - Webpack / Parcel / Babel
+    - GulpJs
+    - Linux e Windows (linha de comando)
 - Outros
-	- SEO básico
-	- Photoshop
-	- Inglês intermediário
-	- ngnix / Apache
-	- Docker / Kubernets ( Estudando :D )
-	- Cordova & Aplicativos Hibridos
-	- Electron (Aplicações desktop, utilizando tecnologias web)
-	- PWA's
+    - SEO básico
+    - Photoshop
+    - Inglês intermediário
+    - ngnix / Apache
+    - Docker / Kubernets ( Estudando :D )
+    - Cordova & Aplicativos Hibridos
+    - Electron (Aplicações desktop, utilizando tecnologias web)
+    - PWA's
 
 
 ## Experiência
@@ -67,8 +66,6 @@ Estou constantemente estudando boas práticas e me especializando nas tecnologia
 
 **Pesquisador e Desenvolvedor Full-Stack Junior** - [RexLab](rexlab.ufsc.br) - December 2016 - 2017
 > Manutenção e devenvolvimentos de novas funcionalidades para o [Relle](http://relle.ufsc.br). O objetivo do laboratório é a inclusão de pessoas nas areas tecnologicas por meio de experimentos remotos,  me orgulha ter participado da equipe de desenvolvimento.
-
-> https://github.com/RExLab
 
 ## Educação
 
@@ -97,4 +94,4 @@ Estou constantemente estudando boas práticas e me especializando nas tecnologia
     - Path Nodejs
     - Path JavaScript
 * Rocketseat
-	- Bootcamp OmniStack - Reactjs, React-Native, Nodejs (**Cursando**)
+    - Bootcamp OmniStack - Reactjs, React-Native, Nodejs (**Cursando**)
