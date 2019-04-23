@@ -8,7 +8,7 @@
 
 ## Sobre mim
 Desenvolvedor apaixonado por tecnologia. Gosto de trabalhar em equipe, aprender e ensinar :D.
-Estou constantemente estudando boas práticas e me especializando nas tecnologias com que trabalho, e atualmente tenho focado meus estudos em Javascript e tambem na arquitetura de microserviços.
+Estou constantemente estudando boas práticas e me especializando nas tecnologias com que trabalho, e atualmente tenho focado meus estudos em Javascript e também na arquitetura de microserviços.
 
 ## Habilidades
 
