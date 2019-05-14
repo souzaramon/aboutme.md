@@ -71,6 +71,10 @@ Estou constantemente estudando boas práticas e me especializando nas tecnologia
 - Universidade Federal de Santa Catarina - Campos Araranguá
 - Junho 2016 - (Dezembro - 2019)
 
+**Cursando Inglês - Módulos básico ao Avançado**
+- CNA Inglês definitivo - Centro
+- Maio 2019 - Maio 2020
+
 ## Alguns cursos que conclui
 
 * Udemy
