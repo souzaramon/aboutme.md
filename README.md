@@ -2,13 +2,13 @@
 ## Ramon de Brittos Souza
 **Localidade:** Santa Catarina - Brasil<br>
 **Telefone:** (48) 998222545<br>
-**E-mail:** ramon_souza@hotmail.com<br>
+**E-mail:** souzaramon.dev@gmail.com<br>
 **Discord:** souzaramon#7405<br>
 **Github:** souzaramon
 
 ## Sobre mim
 Desenvolvedor apaixonado por tecnologia. Gosto de trabalhar em equipe, aprender e ensinar :D.
-Estou constantemente estudando boas práticas e me especializando nas tecnologias com que trabalho, e atualmente tenho focado meus estudos em Javascript e também na arquitetura de microserviços.
+Estou constantemente estudando boas práticas e me especializando nas tecnologias com que trabalho, e atualmente tenho focado meus estudos em ReasonML, Vim e em microserviços.
 
 ## Stack
 - Conhecimentos sólidos em POO
