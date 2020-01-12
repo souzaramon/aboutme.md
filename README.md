@@ -8,12 +8,14 @@
 
 ## Sobre mim
 Desenvolvedor apaixonado por tecnologia. Gosto de trabalhar em equipe, aprender e ensinar :D.
-Estou constantemente estudando boas práticas e me especializando nas tecnologias com que trabalho, e atualmente tenho focado meus estudos em ReasonML, Vim e em microserviços.
+Estou constantemente estudando boas práticas e me especializando nas tecnologias com que trabalho, e atualmente tenho focado meus estudos em Elixir, ReasonML e Vim.
 
 ## Stack
 - Conhecimentos sólidos em POO
 - Conhecimentos em Programação Funcional
 - Conhecimento em testes (unit, integration e end-to-end)
+- Elixir
+- ReasonML & OCaml
 - TypeScript & JavaScript
   - Desing Patterns
   - DOM / HTML5 API's
