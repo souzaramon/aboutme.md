@@ -60,7 +60,10 @@ Estou constantemente estudando boas práticas e me especializando nas tecnologia
 
 ## Experiência
 
-**Desenvolvedor JavaScript** - [Ema Software](https://ema.net.br/) / 2019 - Vigente
+**Desenvolvedor Elixir** - [Astrocoders](https://astrocoders.com/) / 2020 - Vigente
+> Desenvolvimento web com React + Typescript e serverless
+
+**Desenvolvedor JavaScript** - [Ema Software](https://ema.net.br/) / 2019 
 > Desenvolvimento web com React + Typescript e serverless
 
 **Desenvolvedor JavaScript** - [JMV - Sistemas](sgap.com.br) / 2017 - 2019
@@ -73,7 +76,7 @@ Estou constantemente estudando boas práticas e me especializando nas tecnologia
 
 **Bacharelando em Tecnologia da Informação e Comunicação** 
 - Universidade Federal de Santa Catarina - Campos Araranguá
-- Junho 2016 - (Dezembro - 2019)
+- Junho 2016 - (Dezembro - 2020)
 
 **Cursando Inglês - Módulos básicos até Avançados**
 - CNA Inglês definitivo - Centro
@@ -100,4 +103,4 @@ Estou constantemente estudando boas práticas e me especializando nas tecnologia
     - Path Nodejs
     - Path JavaScript
 * Rocketseat
-    - Bootcamp OmniStack - Reactjs, React-Native, Nodejs (**Cursando**)
+    - Bootcamp OmniStack - Reactjs, React-Native, Nodejs
