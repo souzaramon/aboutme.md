@@ -22,6 +22,8 @@ Estou constantemente estudando boas práticas e me especializando nas tecnologia
   - VueJS
   - React
   - Redux (redux-saga, reduxthunk)
+  - Gatsby
+  - NextJS
   - styled-components
   - NodeJS
     - GraphQL
@@ -39,7 +41,7 @@ Estou constantemente estudando boas práticas e me especializando nas tecnologia
   - Cross-Browser & Design Responsivo
   - Frameworks (Bootstrap, Materialize, Bulma)
 - Rust
-  - Apaixonado pela linguagem, estudo em tempo livre.
+  - Estudo em tempo livre.
 - Java, C e C++
   - Conhecimentos básicos desenvolvidos na Faculdade
 - PHP
