@@ -8,7 +8,7 @@
 
 ## Sobre mim
 Desenvolvedor apaixonado por tecnologia. Gosto de trabalhar em equipe, aprender e ensinar :D.
-Estou constantemente estudando boas práticas e me especializando nas tecnologias com que trabalho, e atualmente tenho focado meus estudos em Elixir, ReasonML e Vim.
+Estou constantemente estudando boas práticas e me especializando nas tecnologias com que trabalho, e atualmente tenho focado meus estudos em Haskell.
 
 ## Stack
 - Conhecimentos sólidos em POO
@@ -58,12 +58,15 @@ Estou constantemente estudando boas práticas e me especializando nas tecnologia
   - SEO básico
   - Photoshop
   - Inglês intermediário
-  - AWS (Estudando no momento)
+  - AWS
 
 ## Experiência
 
-**Desenvolvedor Elixir** - [Astrocoders](https://astrocoders.com/) / 2020 - Vigente
-> Desenvolvimento web com React + Typescript e serverless
+**Desenvolvedor FrontEnd** - [Binno](https://www.binnoapp.com/) / 2020 - Vingente
+> Desenvolvimento web com React + Typescript e aplicações com mapas.
+
+**Desenvolvedor Elixir** - [Astrocoders](https://astrocoders.com/) / 2020/03 - 2020/08
+> Desenvolvimento de apis, gateways e integrações utilizando elixir.
 
 **Desenvolvedor JavaScript** - [Ema Software](https://ema.net.br/) / 2019 
 > Desenvolvimento web com React + Typescript e serverless
