@@ -1,111 +1,57 @@
 
-## Ramon de Brittos Souza
-**Localidade:** Santa Catarina - Brasil<br>
-**Telefone:** (48) 998222545<br>
+
+## Ramon Souza
+**Phone:** +55 (48) 998222545<br>
 **E-mail:** souzaramon.dev@gmail.com<br>
 **Discord:** souzaramon#7405<br>
-**Github:** souzaramon
+**Github:** [souzaramon](https://github.com/souzaramon)
 
-## Sobre mim
-Desenvolvedor apaixonado por tecnologia. Gosto de trabalhar em equipe, aprender e ensinar :D.
-Estou constantemente estudando boas práticas e me especializando nas tecnologias com que trabalho, e atualmente tenho focado meus estudos em Haskell.
+## About me
+4+ years of experience in the web applications development using javascript, constantly studying the technologies I work with or find interesting, current learning Rust and WebAssembly.
 
-## Stack
-- Conhecimentos sólidos em POO
-- Conhecimentos em Programação Funcional
-- Conhecimento em testes (unit, integration e end-to-end)
-- Elixir
-- ReasonML & OCaml
-- TypeScript & JavaScript
-  - Desing Patterns
-  - DOM / HTML5 API's
-  - VueJS
-  - React
-  - Redux (redux-saga, reduxthunk)
-  - Gatsby
-  - NextJS
-  - styled-components
-  - NodeJS
-    - GraphQL
-    - ExpressJS
-    - AdonisJS
-    - Socket.io
-    - ORM's (TypeORM, Sequelize, knex*)
-  - Outros
-    - Webpack, browserify, gulp, parcel
-    - babel
-- CSS
-  - Pré-processadores (SASS, LESS)
-  - FlexBox e GridLayout
-  - BEM
-  - Cross-Browser & Design Responsivo
-  - Frameworks (Bootstrap, Materialize, Bulma)
-- Rust
-  - Estudo em tempo livre.
-- Java, C e C++
-  - Conhecimentos básicos desenvolvidos na Faculdade
-- PHP
-  - Laravel
-- DevOps
-  - Docker
-  - ngnix / Apache
-- Outros
-  - Git
-  - Linux
-  - PWA's
-  - Cordova
-  - Electron
-  - SEO básico
-  - Photoshop
-  - Inglês intermediário
-  - AWS
+## Skills
+- English
+- Git
+- Javascript & Typescript & ReasonML
+- NodeJS & Deno
+- React
+- NextJS
+- React Native
+- Express & NestJS & AdonisJS
+- GraphQL
+- SQL & PostgreSQL
+- Linux
+- Docker
+- AWS
+	- S3
+	- EC2
+	- serverless
+	- dynamoDB
 
-## Experiência
+## Work experience
+**Typescript Developer** - [Ema Software](https://ema.net.br/) / 2021 - Current
+> Created BI aplication using AWS, NestJS, React and React Native
 
-**Desenvolvedor FrontEnd** - [Binno](https://www.binnoapp.com/) / 2020 - Vingente
-> Desenvolvimento web com React + Typescript e aplicações com mapas.
+**Typescript Developer** - [Binno](https://www.binnoapp.com/) / 2020 - 2021
+> Created a webapp using React, OpenLayers
 
-**Desenvolvedor Elixir** - [Astrocoders](https://astrocoders.com/) / 2020/03 - 2020/08
-> Desenvolvimento de apis, gateways e integrações utilizando elixir.
+**Elixir Developer** - [Astrocoders](https://astrocoders.com/) / 2020/03 - 2020/08
+> Involved in the creation of API to proxy some financial services
 
-**Desenvolvedor JavaScript** - [Ema Software](https://ema.net.br/) / 2019 
-> Desenvolvimento web com React + Typescript e serverless
+**Typescript Developer** - [Ema Software](https://ema.net.br/) / 2019 
+> Responsible for maintenance of [DOX](https://ema.net.br/produtos/dox) a web app created by Ema
 
-**Desenvolvedor JavaScript** - [JMV - Sistemas](sgap.com.br) / 2017 - 2019
-> Desenvolvimento de PWA's, Api's restfull e aplicativos nativos com react-native
+**Javascript Developer** - [JMV - Sistemas](sgap.com.br) / 2017 - 2019
+> Responsible to build web apps, native apps and api's
 
-**Pesquisador e Desenvolvedor Full-Stack Junior** - [RexLab](rexlab.ufsc.br) - December 2016 - 2017
-> Manutenção e devenvolvimentos de novas funcionalidades para o [Relle](http://relle.ufsc.br). O objetivo do laboratório é a inclusão de pessoas nas areas tecnologicas por meio de experimentos remotos,  me orgulha ter participado da equipe de desenvolvimento.
+**PHP Developer** - [RexLab](rexlab.ufsc.br) - December 2016 - 2017
+> Responsible for maintenance of  [Relle](http://relle.ufsc.br) a web app created by RexLab
 
-## Educação
+## Education
 
 **Bacharelando em Tecnologia da Informação e Comunicação** 
 - Universidade Federal de Santa Catarina - Campos Araranguá
-- Junho 2016 - (Dezembro - 2020)
+- June 2016 - (December - 2020, **not finished**)
 
-**Cursando Inglês - Módulos básicos até Avançados**
-- CNA Inglês definitivo - Centro
-- Maio 2019 - Maio 2020
-
-## Alguns cursos que conclui
-
-* Udemy
-    - Nodejs Master Class
-* Alura 
-    - JavaScript Avançado I, II, e II
-    - JavaScript: De padrões a uma abordagem funcional
-    - Gulp
-    - WebPack
-    - PWA
-    - Performace web I e II
-    - SASS
-    - Chrome DevTools
-    - React
-    - ReactNative
-    - VueJS I e II
-    - FlexBox
-* Pluralsight
-    - Path Nodejs
-    - Path JavaScript
-* Rocketseat
-    - Bootcamp OmniStack - Reactjs, React-Native, Nodejs
+**CNA english class - Medium level**
+- May 2019 - May 2020
