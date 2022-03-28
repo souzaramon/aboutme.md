@@ -7,12 +7,14 @@
 **Github:** [souzaramon](https://github.com/souzaramon)
 
 ## About me
-4+ years of experience in the web applications development using javascript, constantly studying the technologies I work with or find interesting, currently learning Rust and WebAssembly.
+5+ years of experience in the web applications development using javascript, constantly studying the technologies I work with or find interesting, currently learning Rust and WebAssembly.
 
 ## Skills
 - English
 - Git
 - Javascript & Typescript & ReasonML
+- Elixir
+- Python
 - NodeJS & Deno
 - React
 - NextJS
@@ -51,7 +53,7 @@
 
 **Bacharelando em Tecnologia da Informação e Comunicação** 
 - Universidade Federal de Santa Catarina - Campos Araranguá
-- June 2016 - (December - 2020, **not finished**)
+- June 2016 - (December - 2020, **ongoing**)
 
 **CNA english class - Medium level**
 - May 2019 - May 2020
