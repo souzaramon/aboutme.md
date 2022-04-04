@@ -34,21 +34,21 @@ Possuo mais de 5 anos de experiência com desenvolvimento de aplicações web us
 
 ## Experiência
 
-**Desenvolvedor Typescript** - [Objective](https://www.objective.com.br/) Abr 2022 - Atualmente
+**Desenvolvedor Typescript** - [Objective](https://www.objective.com.br/) Abr 2022 - Atualmente<br>
 
-**Desenvolvedor Typescript** - [Ema Software](https://ema.net.br/) Abr 2021 - Abr 2022
+**Desenvolvedor Typescript** - [Ema Software](https://ema.net.br/) Abr 2021 - Abr 2022<br>
 Creating fullstack products using React, React Native, Nodejs and AWS
 
-**Desenvolvedor Elixir** - [Astrocoders](https://astrocoders.com/) Dez 2019 - Mai 2020
+**Desenvolvedor Elixir** - [Astrocoders](https://astrocoders.com/) Dez 2019 - Mai 2020<br>
 Desenvolvimento de APIs com Elixir, usando Phoenix e GraphQL
 
-**Desenvolvedor Typescript** - [Ema Software](https://ema.net.br/) Jul 2019 - Dez 2019
+**Desenvolvedor Typescript** - [Ema Software](https://ema.net.br/) Jul 2019 - Dez 2019<br>
 Melhorando o desempenho e corrigindo bugs em aplicativos ReactJS
 
-**Desenvolvedor Javascript** - [JMV - Sistemas](sgap.com.br) Fev 2018 - Jul 2019
+**Desenvolvedor Javascript** - [JMV - Sistemas](sgap.com.br) Fev 2018 - Jul 2019<br>
 Criando produtos fullstack usando VueJS, React Native e Nodejs
 
-**Pesquisador Assistente e Desenvolvedor PHP** - [RexLab](rexlab.ufsc.br) Dez 2016 - Jan 2019
+**Pesquisador Assistente e Desenvolvedor PHP** - [RexLab](rexlab.ufsc.br) Dez 2016 - Jan 2019<br>
 
 ## Educação
 
