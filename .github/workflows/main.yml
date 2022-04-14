@@ -18,8 +18,8 @@ jobs:
       - name: Rename CV files
         run: |
           mkdir ./docs
-          mv README.md ./docs/souzaramon.md
-          mv README-pt.md ./docs/souzaramon-ptbr.md
+          mv README.md ./docs/cv-webdev-souzaramon.md
+          mv README-pt.md ./docs/cv-webdev-souzaramon-ptbr.md
 
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
@@ -38,5 +38,5 @@ jobs:
         if: startsWith(github.ref, 'refs/tags/')
         with:
           files: |
-            ./souzaramon/souzaramon.pdf
-            ./souzaramon/souzaramon-ptbr.pdf
+            ./souzaramon/cv-webdev-souzaramon.pdf
+            ./souzaramon/cv-webdev-souzaramon-ptbr.pdf
