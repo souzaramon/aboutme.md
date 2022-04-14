@@ -4,9 +4,6 @@ on:
   push:
     branches:
       - gh-pages
-    paths:
-      - './**.md'
-      - './images/**'
 
 env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
