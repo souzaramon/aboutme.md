@@ -1,4 +1,4 @@
-name: Build Pdf 💯
+name: Deploy (as pdf) 🚀
 
 on:
   push:
@@ -14,10 +14,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      
+      - name: Rename CV files
+      run: |
+        mkdir ./docs
+        mv README.md ./docs/souzaramon.md
+        mv README-pt.md ./docs/souzaramon-ptbr.md
+
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
-          input_dir: .
+          input_dir: ./docs
           output_dir: souzaramon
           images_dir: ./images
           image_import: ./images
@@ -25,5 +30,5 @@ jobs:
      
       - uses: actions/upload-artifact@v1
         with:
-          name: souzaramon
+          name: cv-webdev-ramon-souza
           path: souzaramon
