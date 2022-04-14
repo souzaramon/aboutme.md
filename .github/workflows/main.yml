@@ -1,0 +1,31 @@
+name: Build Pdf 💯
+
+on:
+  push:
+    branches:
+      - gh-pages
+    paths:
+      - './**.md'
+      - './images/**'
+
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+jobs:
+  build-and-release:
+    name: build-and-release
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_dir: .
+          output_dir: souzaramon
+          images_dir: ./images
+          image_import: ./images
+     
+      - uses: actions/upload-artifact@v1
+        with:
+          name: souzaramon
+          path: souzaramon
