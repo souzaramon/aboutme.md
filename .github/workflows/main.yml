@@ -21,6 +21,7 @@ jobs:
           output_dir: souzaramon
           images_dir: ./images
           image_import: ./images
+          build_html: false
      
       - uses: actions/upload-artifact@v1
         with:
