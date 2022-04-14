@@ -36,9 +36,11 @@ Possuo mais de 5 anos de experiência com desenvolvimento de aplicações web us
 
 **Desenvolvedor Typescript** - [Objective](https://www.objective.com.br/) Abr 2022 - Atualmente<br>
 
+> Escrevendo testes automatizados para o [Rocket.Chat](https://rocket.chat/)
+
 **Desenvolvedor Typescript** - [Ema Software](https://ema.net.br/) Abr 2021 - Abr 2022<br>
 
-> Creating fullstack products using React, React Native, Nodejs and AWS
+> Criando produtos fullstack com React, React Native, Nodejs e AWS
 
 **Desenvolvedor Elixir** - [Astrocoders](https://astrocoders.com/) Dez 2019 - Mai 2020<br>
 

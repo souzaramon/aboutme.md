@@ -36,6 +36,8 @@
 
 **Desenvolvedor Typescript** - [Objective](https://www.objective.com.br/) - Abr 2022 - Current<br>
 
+> Writing automated tests for [Rocket.Chat](https://rocket.chat/)
+
 **Typescript Developer** - [Ema Software](https://ema.net.br/) - Apr 2021 - Apr 2022<br>
 
 > Creating fullstack products using React, React Native, Nodejs and AWS
