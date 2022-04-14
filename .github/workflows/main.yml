@@ -1,4 +1,4 @@
-name: Deploy (as pdf) 🚀
+name: Build (as pdf) 🚀
 
 on:
   push:
@@ -9,8 +9,8 @@ env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
-  build-and-release:
-    name: build-and-release
+  build:
+    name: build
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
