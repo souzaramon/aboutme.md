@@ -1,9 +1,9 @@
-name: Build (as pdf) 🚀
+name: Build & Release 🚀
 
 on:
   push:
-    branches:
-      - gh-pages
+    tags:
+      - "v*.*.*"
 
 env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -33,3 +33,10 @@ jobs:
         with:
           name: cv-webdev-ramon-souza
           path: souzaramon
+          
+      - uses: softprops/action-gh-release@v1
+        if: startsWith(github.ref, 'refs/tags/')
+        with:
+          files: |
+            ./souzaramon/souzaramon.pdf
+            ./souzaramon/souzaramon-ptbr.pdf
