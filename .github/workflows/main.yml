@@ -14,11 +14,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      
       - name: Rename CV files
-      run: |
-        mkdir ./docs
-        mv README.md ./docs/souzaramon.md
-        mv README-pt.md ./docs/souzaramon-ptbr.md
+        run: |
+          mkdir ./docs
+          mv README.md ./docs/souzaramon.md
+          mv README-pt.md ./docs/souzaramon-ptbr.md
 
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
