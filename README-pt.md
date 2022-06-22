@@ -9,19 +9,16 @@ Possuo mais de 5 anos de experiência com desenvolvimento de aplicações web us
 
 ## Habilidades
 
-- Inglês
-- Português
 - Git
-- Javascript & Typescript & ReasonML
-- Elixir
+- Javascript, Typescript, Flow
+- TDD, Jest, Cypress, Playwright
+- Express, NestJs, AdonisJs
+- NextJS, Gatsby
+- GraphQL (Apollo)
+- SQL, PostgreSQL
+- HTML, CSS
+- ReactJS, React Native, VueJS, Svelte
 - Python
-- NodeJS & Deno
-- React
-- NextJS
-- React Native
-- Express & NestJS & AdonisJS
-- GraphQL
-- SQL & PostgreSQL
 - Linux
 - Docker
 - AWS
@@ -34,33 +31,26 @@ Possuo mais de 5 anos de experiência com desenvolvimento de aplicações web us
 
 ## Experiência
 
-**Desenvolvedor Typescript** - [Objective](https://www.objective.com.br/) Abr 2022 - Atualmente<br>
+- **Desenvolvedor Typescript** - [Objective](https://www.objective.com.br/) Abr 2022 - Atualmente
+  - Escrevendo testes automatizados para o [Rocket.Chat](https://rocket.chat/)
 
-> Escrevendo testes automatizados para o [Rocket.Chat](https://rocket.chat/)
+- **Desenvolvedor Typescript** - [Ema Software](https://ema.net.br/) Abr 2021 - Abr 2022
+  - Criando produtos fullstack com React, React Native, Nodejs e AWS
 
-**Desenvolvedor Typescript** - [Ema Software](https://ema.net.br/) Abr 2021 - Abr 2022<br>
+- **Desenvolvedor Elixir** - [Astrocoders](https://astrocoders.com/) Dez 2019 - Mai 2020
+  - Desenvolvimento de APIs com Elixir, usando Phoenix e GraphQL
 
-> Criando produtos fullstack com React, React Native, Nodejs e AWS
+- **Desenvolvedor Typescript** - [Ema Software](https://ema.net.br/) Jul 2019 - Dez 2019
+  - Melhorando o desempenho e corrigindo bugs em aplicativos ReactJS
 
-**Desenvolvedor Elixir** - [Astrocoders](https://astrocoders.com/) Dez 2019 - Mai 2020<br>
+- **Desenvolvedor Javascript** - [JMV - Sistemas](sgap.com.br) Fev 2018 - Jul 2019
+  - Criando produtos fullstack usando VueJS, React Native e Nodejs
 
-> Desenvolvimento de APIs com Elixir, usando Phoenix e GraphQL
-
-**Desenvolvedor Typescript** - [Ema Software](https://ema.net.br/) Jul 2019 - Dez 2019<br>
-
-> Melhorando o desempenho e corrigindo bugs em aplicativos ReactJS
-
-**Desenvolvedor Javascript** - [JMV - Sistemas](sgap.com.br) Fev 2018 - Jul 2019<br>
-
-> Criando produtos fullstack usando VueJS, React Native e Nodejs
-
-**Pesquisador Assistente e Desenvolvedor PHP** - [RexLab](rexlab.ufsc.br) Dez 2016 - Jan 2019<br>
+- **Pesquisador Assistente e Desenvolvedor PHP** - [RexLab](rexlab.ufsc.br) Dez 2016 - Jan 2019
 
 ## Educação
 
-**Bacharelando em Tecnologia da Informação e Comunicação**
+- **Bacharelando em Tecnologia da Informação e Comunicação** - Jun de 2016 - **em andamento**
+  - Universidade Federal de Santa Catarina - Campos Araranguá
 
-- Universidade Federal de Santa Catarina - Campos Araranguá
-- Junho de 2016 - (dezembro - 2020, **em andamento**)
-
-**Aula de inglês CNA - nível médio** - Mai 2019 - Mai 2020
+- **Aula de inglês CNA - nível médio** - Mai 2019 - Mai 2020
