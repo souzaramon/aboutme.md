@@ -26,6 +26,7 @@
   - EC2
   - lambda
   - DynamoDB
+  - ApiGateway
   - cloudformation
   - cloudfront
 

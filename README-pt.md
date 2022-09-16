@@ -26,6 +26,7 @@ Possuo mais de 5 anos de experiência com desenvolvimento de aplicações web us
   - EC2
   - lambda
   - DynamoDB
+  - ApiGateway
   - cloudformation
   - cloudfront
 
