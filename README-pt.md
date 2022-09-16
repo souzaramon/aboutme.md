@@ -5,7 +5,7 @@
 
 ## Sobre
 
-Possuo mais de 5 anos de experiência com desenvolvimento de aplicações web usando Javascript. Estou constantemente estudando sobre as tecnologias que trabalho ou acho interessante. Atualmente estou aprendendo Rust e WebAssembly.
+Possuo mais de 5 anos de experiência com desenvolvimento de aplicações web usando Javascript. Estou constantemente estudando sobre as tecnologias que trabalho ou acho interessante. Atualmente estou aprendendo sobre Devops
 
 ## Habilidades
 
