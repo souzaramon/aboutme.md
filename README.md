@@ -5,7 +5,7 @@
 
 ## About me
 
-5+ years of experience in the web applications development using javascript, constantly studying the technologies I work with or find interesting, currently learning Rust and WebAssembly.
+5+ years of experience in the web applications development using javascript, constantly studying the technologies I work with or find interesting, currently learning DevOps technologies.
 
 ## Skills
 
